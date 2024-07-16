@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login With Registered User (Correct Flow)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>92ccbe59-7909-4844-bc0d-f6c048366939</testCaseGuid>
+</TestCaseEntity>
